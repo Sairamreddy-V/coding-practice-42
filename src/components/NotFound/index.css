@@ -1,0 +1,6 @@
+/* Write your CSS here */
+.pageClassName {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.light-theme-text {
+  color: #ffffff;
+  font-size: 25px;
+  margin-right: 10px;
+}
+.dark-theme-text {
+  color: #000000;
+  font-size: 25px;
+  margin-right: 10px;
+}
+.nav-ul-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style-type: none;
+}
+.nav-container {
+  display: flex;
+  padding-left: 10px;
+  padding-right: 10px;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #000000;
+  background-color: #ffffff;
+}
+.nav-dark-container {
+  display: flex;
+  padding-left: 10px;
+  padding-right: 10px;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #ffffff;
+  background-color: #000000;
+}
+.logo-img {
+  height: 70px;
+  width: 70px;
+}
+.nav-theme-img {
+  height: 70px;
+  width: 70px;
+}
+.button {
+  background-color: transparent;
+  border: none;
+  cursor:pointer;
+}
